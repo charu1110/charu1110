@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently focused on excelling **DSA (in java) and explore web development**
 
-- 💬 Ask me about **java , javascript ,react js.**
-
 - 📫 How to reach me **charukashyap999@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/charu1110/charu1110](https://github.com/charu1110/charu1110)
