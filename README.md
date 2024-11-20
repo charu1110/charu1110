@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **full stack clone project of a website** .
 
-- 🌱 I’m currently focused on excelling **DSA (in java) and explore web development**
+- 🌱 I’m currently focused on excelling **DSA (in java) and explore web development** .
 
 - 📫 How to reach me **charukashyap999@gmail.com**
 
