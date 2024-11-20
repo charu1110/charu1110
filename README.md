@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **charukashyap999@gmail.com** .
 
-- 📄 Know about my experiences [https://github.com/charu1110/charu1110](https://github.com/charu1110/charu1110)
+- 📄 Know about my experiences [https://github.com/charu1110/charu1110](https://github.com/charu1110/charu1110) .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
