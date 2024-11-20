@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi 👋, I'm charu</b></h1>
 <h3 align="center">Passionate for learning new technologies exploring different languages...currently focused on excelling DSA (in java) and to explore the domain of web development</h3>
 
-- 🔭 I’m currently working on **full stack clone project of a website**
+- 🔭 I’m currently working on **full stack clone project of a website** .
 
 - 🌱 I’m currently focused on excelling **DSA (in java) and explore web development**
 
