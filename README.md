@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/charu1110/charu1110](https://github.com/charu1110/charu1110) .
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charu." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charu." height="30" width="40" /></a>
 <a href="https://www.leetcode.com/charu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="charu_" height="30" width="40" /></a>
